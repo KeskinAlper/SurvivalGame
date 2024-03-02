@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2441f4b2e7b4d704ab489dca610f0f65, type: 3}
+  m_Name: RemingtonDoubleBarrel
+  m_EditorClassIdentifier: 
+  itemname: Remington Double Barrel
+  description: 
+  isequipment: 1
+  ismedkit: 0
+  id: 6
+  weight: 3
+  invuiitem: {fileID: 4227476427895814283, guid: 67e234acc8abd59499cb4dbdfef3a8e8, type: 3}
+  ingameobj: {fileID: 3726652933340229733, guid: b5107abec90f85c45809f114e9a7f00a, type: 3}

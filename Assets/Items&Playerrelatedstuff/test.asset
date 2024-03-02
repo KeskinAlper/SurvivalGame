@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2441f4b2e7b4d704ab489dca610f0f65, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: 
+  itemname: gun
+  description: isgun
+  isequipment: 1
+  ismedkit: 0
+  id: 1
+  weight: 0.83
+  invuiitem: {fileID: 519276397443828505, guid: dd8d5636b0522be478cc920755db55b7, type: 3}
+  ingameobj: {fileID: 5353868554315160140, guid: 0e383da177d53fd41a32d0e7d152f166, type: 3}
